@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1652066493 source:c:\users\aven\desktop\justify\justify.c
+	<stdio.h>
+	<string.h>
+	"line.h"
+	"word.h"
+
+1651404575 c:\users\aven\desktop\justify\line.h
+
+1651404575 c:\users\aven\desktop\justify\word.h
+
+1652066424 source:c:\users\aven\desktop\justify\line.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"line.h"
+
+1651404575 source:c:\users\aven\desktop\justify\word.c
+	<stdio.h>
+	"word.h"
+
